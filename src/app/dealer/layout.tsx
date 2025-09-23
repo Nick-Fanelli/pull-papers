@@ -40,7 +40,7 @@ const DealerLayout = ({ children }: Readonly<{ children: React.ReactNode; }>) =>
                 </div>
             </div>
 
-            <div id="content" className="w-screen px-10 pt-5">
+            <div id="content" className="mx-5 pt-5">
                 {children}
             </div>
 
