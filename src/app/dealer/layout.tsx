@@ -19,7 +19,7 @@ const DealerLayout = ({ children }: Readonly<{ children: React.ReactNode; }>) =>
                             <li><a href="">Templates</a></li>
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">Pull Papers [logo]</a>
+                    <a className="btn btn-ghost text-xl" href="/dealer">Pull Papers [logo]</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
